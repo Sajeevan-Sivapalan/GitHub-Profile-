@@ -12,7 +12,7 @@
 
 <img  src="https://media.licdn.com/dms/image/v2/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=WKY5olZZi3GUh2nF2IFRGUwpGeV2elFznXr3Jkytn_M" height="290px" align="right" />
 
- - 🙋‍♂️ All about me is at **[My Website](https://sajeevan_sivapalan.vercel.app/)**
+ - 🙋‍♂️ All about me is at **[My Website](https://sajeevan-sivapalan.vercel.app/)**
 
  - 🎓 I am a final-year Software Engineering undergraduate at SLIIT.
 
